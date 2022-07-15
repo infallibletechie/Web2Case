@@ -39,7 +39,7 @@
 <option value="Closed">Closed</option>
 </select><br>-->
 
-<input type="hidden"  id="external" name="external" value="New from Web to Case" /><br>
+<input type="hidden"  id="status" name="status" value="New from Web to Case" /><br>
 
 <input type="hidden"  id="external" name="external" value="1" /><br>
 
